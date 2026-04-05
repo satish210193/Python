@@ -15,4 +15,3 @@ print(f"multipcation of a {no}")
 for i in range(1, 11):
     print(f"{no} * {i} = {no * i}")
 
-xyz
